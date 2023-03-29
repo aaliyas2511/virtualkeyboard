@@ -1,0 +1,54 @@
+*{
+		box-sizing: border-box;
+		font-size: large;
+	}
+body{
+		background-image: url('background.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+  		background-size: cover;
+  		font-weight: bold;
+	}
+
+.left {
+	 float: left;
+	 padding: 0 20px 20px 0;
+	 height: 200px;
+	 width: 450px;
+	}
+.right{
+	 float: right;
+	 padding: 0 20px 20px 0;
+	 height: 225px;
+	 width: 450px;
+
+}
+#keyboard{
+	text-align: center;
+}
+#head{
+	text-align: center;
+	color: #003153;
+	font-weight: bolder;
+	font-size: 40px
+	}
+.head2{
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 25px;
+}
+.head3{
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 25px;
+	text-align: left;
+}
+.button{
+	font-size: x-large;
+	width: fit-content;
+	height: fit-content;
+}
+#preintro{
+	font-weight: bolder;
+	text-align: center;
+}
